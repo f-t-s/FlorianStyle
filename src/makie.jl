@@ -17,5 +17,8 @@ empty_theme = Theme(
         yticksvisible = false,
         xautolimitmargin = (0.0,0.0),
         yautolimitmargin = (0.0,0.0),
+    ),
+    palette = (
+        color = [seagreen, darksky, steelblue, silver, joshua, orange, rust]
     )
 )

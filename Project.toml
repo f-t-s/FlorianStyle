@@ -1,0 +1,13 @@
+name = "FlorianStyle"
+uuid = "1ee28eb3-1cf2-4b31-b06b-2e7fb5f77cb8"
+authors = ["Florian Schaefer"]
+version = "0.1.0"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
